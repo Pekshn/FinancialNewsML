@@ -8,5 +8,7 @@ FinancialNewsSentimentAnalysis.mlmodel is created with this steps:
 
 Note:
 In playground resources is all-data.csv dataset file downloaded from link:
+
 https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
+
 Top level title in this document - "sentiment,text" is added after download
