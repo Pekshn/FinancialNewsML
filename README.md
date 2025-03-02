@@ -1,7 +1,8 @@
 # FinancialNewsML
- ML - Sentiment Analysis
 
 An iOS ML application that analyzes the sentiment of Financial News Content.
+
+ML - Sentiment Analysis example
 
 Note:
 
