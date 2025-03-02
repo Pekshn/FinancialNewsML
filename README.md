@@ -2,7 +2,7 @@
 
 An iOS ML application that analyzes the sentiment of Financial News Content.
 
-ML - Sentiment Analysis example
+ML Sentiment Analysis example app
 
 Note:
 
