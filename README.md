@@ -15,4 +15,4 @@ The all-data.csv dataset file has been downloaded and added to the playground re
 
 Download link: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
 
-Top level title in this document - "sentiment,text" is added after download
+Top level title in this document - "sentiment,text" has been added after download
