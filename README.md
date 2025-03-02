@@ -4,7 +4,7 @@ An iOS ML application that analyzes the sentiment of Financial News Content.
 
 - ML Sentiment Analysis example app
 
-Note:
+📌 Notes:
 
 FinancialNewsSentimentAnalysis.mlmodel is created with this steps:
 1. Open "Resources and Logic for creating MLModel" folder
@@ -16,3 +16,11 @@ The all-data.csv dataset file has been downloaded and added to the playground re
 Download link: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
 
 Top level title in this document - "sentiment,text" has been added after download
+
+📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="Screenshots/SS.png" width="300"></td>
+  </tr>
+</table>
